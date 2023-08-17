@@ -1,2 +1,3 @@
 # sync
-A set of synchronization functions for handling promises and contention
+
+This has been moved to my [mono(ish) repo](https://github.com/kevinfrei/packages.git).
